@@ -43,7 +43,7 @@
 
 - #### 实验结果如下图：
 
-- ![2](https://github.com/Tstarrain/android_lab/blob/master/lab2_layout/result_pic/4x4_table.png)
+- ![2](https://github.com/Confusss/android_lab/blob/master/lab2_layout/result_pic/4x4_table.png)
 
 
 
@@ -81,7 +81,7 @@
   
 - #### 实验结果如下图：
 
-- ![3](https://github.com/Tstarrain/android_lab/blob/master/lab2_layout/result_pic/CMD.png)
+- ![3](https://github.com/Confusss/android_lab/blob/master/lab2_layout/result_pic/CMD.png)
 
 
 
@@ -145,7 +145,7 @@
 
 - #### 实验结果如下图:
 
-- ![4](https://github.com/Tstarrain/android_lab/blob/master/lab2_layout/result_pic/calculate.png)
+- ![4](https://github.com/Confusss/android_lab/blob/master/lab2_layout/result_pic/calculate.png)
 
 
 
@@ -231,4 +231,4 @@
 
 - #### 实验结果如下图：
 
-- ![5](https://github.com/Tstarrain/android_lab/blob/master/lab2_layout/result_pic/rocky.png)
+- ![5](https://github.com/Confusss/android_lab/blob/master/lab2_layout/result_pic/rocky.png)
