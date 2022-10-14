@@ -1,4 +1,4 @@
-# Exp_02 Android 界面布局
+# lab_02 Android 界面布局
 
 ### 1.项目的基本结构
 
@@ -6,35 +6,13 @@
 
 
 
-- linearLayoutActivity类是线性布局实验的启动类
 
-  activity_linearlayout.xml是该实验的布局
-
-  
-
-- TableLayoutActivity类是表格布局实验的启动类
-
-  activity_tablelayout.xml是该实验的布局
-
-  
-
-- ConStraintLayout_1Activity类是约束布局1实验的启动类
-
-  activity_constraintlayout_1.xml是该实验的布局
-
-  
-
-- ConStraintLayout_2Activity类是约束布局2实验的启动类
-
-  activity_constraintlayout_2.xml是该实验的布局
 
   
 
 ### 2. 线性布局实验
 
-- #### 思路
 
-  利用LinearLayout嵌套，首先放一个垂直的LinearLayout布局，内层再嵌套四个水平的LinearLayout，除第三行设置1:1:1:1权重外，第一和第二行设置1:1.3:1:1,第四行设置1:1.2:1:1。
 
 - #### 部分实验代码：
 
@@ -71,11 +49,7 @@
 
 ### 3.表格布局实验
 
-- #### 思路：
 
-  ①利用了Android Studio布局编辑器实现
-
-  ②左右对齐在两个TextView在子元素中进行gravity设置即可完成
 
 - #### 部分实验代码：
 
@@ -113,9 +87,6 @@
 
 ### 4.约束布局1实验
 
-- #### 思路：
-
-  利用了Android Studio布局编辑器实现
 
 - #### 部分实验代码：
 
@@ -180,11 +151,7 @@
 
 ### 4.约束布局2实验
 
-- #### 思路：
 
-  ①利用了Android Studio布局编辑器实现
-
-  ②对于菜单栏可以设置水平链
 
 - #### 部分实验代码：
 
