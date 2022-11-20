@@ -311,7 +311,7 @@
 
 添加新的标签的弹窗
 
-![image](img\addtag.png)
+![image](lab_mid/img/addtag.png)
 
 添加新标签后的tag列表
 
