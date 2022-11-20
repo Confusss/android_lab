@@ -277,21 +277,21 @@
 
     //选择标签
      public void onClick(DialogInterface dialog, int which) {
-                                            List<String> tagList = Arrays.asList(sharedPreferences.getString("tagListString", null).split("_")); //获取tags
+            List<String> tagList = Arrays.asList(sharedPreferences.getString("tagListString", null).split("_")); //获取tags
 
-                                            String name = et.getText().toString();
-                                            if (!tagList.contains(name)) {
-                                                SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(context);
-                                                String oldTagListString = sharedPreferences.getString("tagListString", null);
-                                                String newTagListString = oldTagListString + "_" + name;
-                                                SharedPreferences.Editor editor = sharedPreferences.edit();
-                                                editor.putString("tagListString", newTagListString);
-                                                editor.commit();
-                                                refreshTagList();
-                                            }
-                                            else Toast.makeText(context, "Repeated tag!", Toast.LENGTH_SHORT).show();
-                                        }
-                                    .setNegativeButton(android.R.string.cancel, new DialogInterface.OnClickListener())
+                  String name = et.getText().toString();
+                 if (!tagList.contains(name)) {
+                    SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(context);
+                    String oldTagListString = sharedPreferences.getString("tagListString", null);
+                      String newTagListString = oldTagListString + "_" + name;
+                         SharedPreferences.Editor editor = sharedPreferences.edit();
+                        editor.putString("tagListString", newTagListString);
+                         editor.commit();
+                           refreshTagList();
+                             }
+                       else Toast.makeText(context, "Repeated tag!", Toast.LENGTH_SHORT).show();
+                      }
+                         .setNegativeButton(android.R.string.cancel, new DialogInterface.OnClickListener())
     
     //增加tag后对tag总列表进行更新操作
     private void refreshTagList() {
