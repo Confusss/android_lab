@@ -59,7 +59,7 @@
 
 笔记的下方会显示保存笔记时的当前时间
 
-![image](img\time.png)
+![image](https://user-images.githubusercontent.com/94881561/202888794-74557c27-6a7d-4546-a3e8-6ffd98a42c1a.png)
 
 ## 按关键字搜索笔记
 ### 关键代码
@@ -118,11 +118,11 @@
 
 点击搜索的控件
 
-![image](img\searchlogo.png)
+![image](https://user-images.githubusercontent.com/94881561/202888790-198a2ddb-96cc-4c5d-bb8f-75da0b31b902.png)
 
 输入搜索的关键字
 
-![image](img\search.png)
+![image](https://user-images.githubusercontent.com/94881561/202888789-123ee42e-53cb-47f6-9ea6-1764715ed1ca.png)
 
 
 ## 夜间模式（UI变化）
@@ -216,11 +216,11 @@
 
 ### 实现效果
 
-![image](img\night.png)
+![image](https://user-images.githubusercontent.com/94881561/202888787-88224263-2455-4f33-af8b-8e6216845576.png)
 
 点击右边的按钮进入夜间模式
 
-![image](img\night1.png)
+![image](https://user-images.githubusercontent.com/94881561/202888788-e1800570-b4ed-4e67-b190-4f97bf798052.png)
 
 
 ## 笔记分类标签及添加标签
@@ -306,19 +306,19 @@
 
 这是原来的tag列表
 
-![image](img\tag.png)
+![image](https://user-images.githubusercontent.com/94881561/202888792-1d44e461-3f99-452e-93bd-60bb169fe805.png)
 
 
 添加新的标签的弹窗
 
-![image](lab_mid/img/addtag.png)
+![image](https://user-images.githubusercontent.com/94881561/202888780-3394ec6a-a3cd-4770-b29e-0c6094cdef12.png)
 
 添加新标签后的tag列表
 
-![image](img\moretag.png)
+![image](https://user-images.githubusercontent.com/94881561/202888785-5bd00228-84cc-4a22-962e-21374ad7f8be.png)
 
 选择新标签后主页的反应
 
-![image](img\newtag.png)
+![image](https://user-images.githubusercontent.com/94881561/202888786-d99d050c-b7ec-4c15-9f21-4b0fa0347afd.png)
 
 
