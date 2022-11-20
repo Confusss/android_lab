@@ -69,7 +69,7 @@
 
 - #### 实验结果如下图：
 
-- ![1](img\animals.png)
+- ![1](https://user-images.githubusercontent.com/94881561/202888953-4e1ad3a2-7034-4a6d-8962-401b9431cf1c.png)
 
 ### 3.创建自定义布局的AlertDialog
 
@@ -126,7 +126,7 @@
 
 - #### 实验结果如下图：
 
-- ![2](img\register.png)
+- ![2](https://user-images.githubusercontent.com/94881561/202888761-9f3840d5-e02e-4d56-88da-c6ed234e730a.png)
 
 ### 4.使用XML定义菜单
 
@@ -202,7 +202,7 @@
 
 - #### 实验结果如下图：
 
-- ![2](img\text.png)
+- ![2](https://user-images.githubusercontent.com/94881561/202888765-1738c1cf-24c7-4f22-b8a5-ffb73d03b7da.png)
 
 ### 5.ActionMode的上下文菜单
 
@@ -277,5 +277,5 @@
 
 - #### 实验结果如下图：
 
-- ![2](img\select.png)
+- ![2](https://user-images.githubusercontent.com/94881561/202888763-c73dd42e-dd9d-4caf-b452-f7c98af1035a.png)
 
