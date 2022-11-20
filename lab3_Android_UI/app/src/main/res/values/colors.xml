@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="skyblue">#46BCEA</color>
+    <color name="purple_500">#A66DF8</color>
+    <color name="purple_700">#956AF6</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="shallowblue">#B3E7EE</color>
+    <color name="red">#E86064</color>
+
+    <color name="newwhite"> #FBFBFB</color>
+</resources>
